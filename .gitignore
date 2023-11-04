@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# Config node version
+.nvmrc
+
 # testing
 /coverage
 
